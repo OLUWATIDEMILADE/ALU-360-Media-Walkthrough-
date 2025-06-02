@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WelcomeScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TourScene.unity
+    guid: b640e8d5b59a04b4e87e0335f177fdb6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9f908001ef34a7443918b98b70613954, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4a71c32b1dede9c4492703fd8d6589bd, type: 2}
